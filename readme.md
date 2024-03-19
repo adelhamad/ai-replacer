@@ -8,12 +8,12 @@
 
 <img width="531" alt="image" src="https://github.com/adelhamad/ai-replacer/assets/61653223/6796545e-14a2-4621-8d0a-d9ec480f4857">
 
-
-4. search apiKey and replace with your openai api key
+4. search apiKey and replace it with your openai api key
 5. customize your model and initial prompt
-6. go to keyboard settings -> shortcuts -> services -> text -> AIRelacer
-7. assign shortcut
-8. enjoy
+6. double-click on the AIReplacer file -> install service
+7. go to keyboard settings -> shortcuts -> services -> text -> AIRelacer
+8. assign shortcut
+9. enjoy
 
 
 
