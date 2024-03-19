@@ -1,14 +1,14 @@
 ## Use Gen AI anywhere with less or no cost
 
-The easiest way to use it is:
+### The easiest way to use it is:
 
-1- download the zip file
-2- open with Automator mac app
-3- add your openai api key
-4- customize your model and initial prompt
-5- go to keyboard settings -> shortcuts -> services -> text -> AIRelacer
-6- assign shortcut
-7- enjoy
+1. download the zip file
+2. open with Automator mac app
+3. add your openai api key
+4. customize your model and initial prompt
+5. go to keyboard settings -> shortcuts -> services -> text -> AIRelacer
+6. assign shortcut
+7. enjoy
 
 
 
