@@ -1,1 +1,4 @@
-## use gen ai anywhere with less or no cost
+## Use Gen AI anywhere with less or no cost
+
+
+twitter: @adelcodes
