@@ -3,12 +3,17 @@
 ### The easiest way to use it is:
 
 1. download the zip file
-2. open with Automator mac app
-3. add your openai api key
-4. customize your model and initial prompt
-5. go to keyboard settings -> shortcuts -> services -> text -> AIRelacer
-6. assign shortcut
-7. enjoy
+2. unzip and open the content in any code editor
+3. open AIReplacer.workflow/Contents/document.wflow
+
+<img width="531" alt="image" src="https://github.com/adelhamad/ai-replacer/assets/61653223/6796545e-14a2-4621-8d0a-d9ec480f4857">
+
+
+4. search apiKey and replace with your openai api key
+5. customize your model and initial prompt
+6. go to keyboard settings -> shortcuts -> services -> text -> AIRelacer
+7. assign shortcut
+8. enjoy
 
 
 
